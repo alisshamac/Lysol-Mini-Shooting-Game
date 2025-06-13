@@ -33,7 +33,7 @@ Lysol is a 2D mini shooting game developed in Java, inspired by arcade-style sho
 
 ![image](https://github.com/user-attachments/assets/b6fb6178-ba81-498b-a0ca-916dc2ca4bf2)
 
-4. [Video Demo](./Lysol Demo.mp4)
+4. [Video Demo](./LysolDemo.mp4)
 
 ## Developer
 
