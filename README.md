@@ -4,7 +4,7 @@ Lysol is a 2D mini shooting game developed in Java, inspired by arcade-style sho
 ## Gameplay Overview
 
 1. Play as a Lysol Spray Can
-   Navigate the screen to dodge germs and automatically spray disinfectant upward to eliminate enemies.
+   Use the arrow keys to move and press the space bar to shoot disinfectant sprays upward and eliminate germs.
 
 2. Enemy Waves
    Standard germs enter from the right side of the screen and must be sprayed away before they reach the player.
@@ -19,19 +19,6 @@ Lysol is a 2D mini shooting game developed in Java, inspired by arcade-style sho
 6. Timed Survival
    Players must survive for a set amount of time. The final score is based on how many germs are eliminated before the timer runs out.
 
-## Key Features
-
-    Built in Java with basic graphics and event handling.
-
-    Automatic shooting mechanics for accessibility and speed.
-
-    Unique boss fight with high-HP virus enemy.
-
-    Simple health and scoring system.
-
-    Responsive movement using keyboard controls.
-
-    Endgame states: win by surviving the timer, or lose by running out of health.
 
 ## Developer
 
