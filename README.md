@@ -19,6 +19,19 @@ Lysol is a 2D mini shooting game developed in Java, inspired by arcade-style sho
 6. Timed Survival
    Players must survive for a set amount of time. The final score is based on how many germs are eliminated before the timer runs out.
 
+## Screenshots
+
+1. Main menu
+
+![image](https://github.com/user-attachments/assets/3211c6fc-27ed-4007-853e-eccac0533674)
+
+2. Instructions
+
+![image](https://github.com/user-attachments/assets/692f4862-fd22-4128-9dd3-ddfb956b9524)
+
+3. Gameplay
+
+![image](https://github.com/user-attachments/assets/b6fb6178-ba81-498b-a0ca-916dc2ca4bf2)
 
 ## Developer
 
